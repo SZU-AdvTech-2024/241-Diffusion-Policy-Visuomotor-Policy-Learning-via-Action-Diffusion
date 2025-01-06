@@ -1,12 +1,7 @@
 @inproceedings{REPO241,
     author = "Chi, Cheng and Feng, Siyuan and Du, Yilun and Xu, Zhenjia and Cousineau, Eric and Burchfiel, Benjamin and Song, Shuran",
     editor = "Bekris, Kostas E. and Hauser, Kris and Herbert, Sylvia L. and Yu, Jingjin",
-    bibsource = "dblp computer science bibliography, https://dblp.org",
-    biburl = "https://dblp.org/rec/conf/rss/ChiFDXCBS23.bib",
     booktitle = "Robotics: Science and Systems XIX, Daegu, Republic of Korea, July 10-14, 2023",
-    doi = "10.15607/RSS.2023.XIX.026",
-    timestamp = "Mon, 29 Apr 2024 21:28:50 +0200",
     title = "{Diffusion Policy: Visuomotor Policy Learning via Action Diffusion}",
-    url = "https://doi.org/10.15607/RSS.2023.XIX.026",
     year = "2023"
 }
